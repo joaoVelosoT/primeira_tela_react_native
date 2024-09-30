@@ -1,18 +1,18 @@
-### React Native
+# React Native
 ## Instalar no cmd da pasta
-# npx create-expo-app nomeProjeto --template blank
+### npx create-expo-app nomeProjeto --template blank
 
 ## no app, limpar o codigo
-# Apagar o css, e tirar ele da view
+### Apagar o css, e tirar ele da view
 
 ## Criar pastas
-# src/Telas e Components
+### src/Telas e Components
 
 ## Criar um arquivo .js
-# Prime.js
+### Prime.js
 
 ## Atalho para criar componente
-# RFC
+### RFC
 
 ## Colocar o arquivo novo dentro do view do App
 `<Prime/>` 
